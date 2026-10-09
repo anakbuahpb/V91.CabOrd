@@ -1,0 +1,6 @@
+{
+  "name": "V91.CabORD - Database Cabang & Evaluasi Stok",
+  "description": "Sistem Database Cabang V91.CabORD untuk evaluasi stok bibit, kemasan, analisis pemasukan & pengeluaran, cetak PDF, dan audit pimpinan.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
